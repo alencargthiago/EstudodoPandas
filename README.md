@@ -18,11 +18,11 @@ Alguns conceitos são fundamentais para o melhor entedimento das funcionalidades
 **Tratamento de dados ausentes**: Pandas fornece funções para lidar com dados ausentes ou nulos, como isnull, __notnull, dropna e fillna__.
 
 ## **Tópicos de estudo**:
-- **Carregando informaçõe**
-- **Informações sobre o datase**
-- **Filtros e Seleçã**
-- **Estatística descritiv**
-- **SQL NO PANDA**
-- **tratando Missin**
-- **Alterando e criando campo**
-- **Outras fu- ncionalidades**
+- **Carregando informações**
+- **Informações sobre o dataset**
+- **Filtros e Seleção**
+- **Estatística descritiva**
+- **SQL NO PANDAS**
+- **tratando Missing**
+- **Alterando e criando campos**
+- **Outras funcionalidades**

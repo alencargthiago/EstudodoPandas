@@ -16,3 +16,13 @@ Alguns conceitos são fundamentais para o melhor entedimento das funcionalidades
 **Análise de dados** Também é possível realizar análises estatísticas em seus dados. Algumas funções incluem __describe, mean, median, min, max, std, corr__ e muitas outras.
 
 **Tratamento de dados ausentes**: Pandas fornece funções para lidar com dados ausentes ou nulos, como isnull, __notnull, dropna e fillna__.
+
+## **Tópicos de estudo**:
+- **Carregando informaçõe**
+- **Informações sobre o datase**
+- **Filtros e Seleçã**
+- **Estatística descritiv**
+- **SQL NO PANDA**
+- **tratando Missin**
+- **Alterando e criando campo**
+- **Outras fu- ncionalidades**
